@@ -2,6 +2,8 @@
 
 This projects is a whatsApp clone.
 
-![WhatsApp Clone](docs/Screenshot.png)
+project to practice concurrency in Go
+
+![WhatsApp Clone](docs/screenshot.png)
 
 
